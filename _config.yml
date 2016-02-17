@@ -1,9 +1,10 @@
 # Site settings
+url: http://seminaris.org/
+# baseurl: /joebrew.github.io/
 title: Seminaris ISGlobal
 header-img: img/1.JPG
 email: joe@gmail.com
 description: "Seminaris ISGlobal"
-url: "http://seminaris.github.io"
 # twitter_username: bcndata
 # github_username:  joebrew
 # facebook_username:  joebrew
