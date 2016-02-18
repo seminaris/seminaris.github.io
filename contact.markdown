@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_sub
 title: " Contacte"
 description: ""
 header-img: "img/5.JPG"

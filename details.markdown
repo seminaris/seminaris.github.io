@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_sub
 title: "Detalls"
 description: "En construcció"
 header-img: "img/7.JPG"
