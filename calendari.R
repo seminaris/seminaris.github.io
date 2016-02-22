@@ -55,7 +55,7 @@ centre <- c('ISGlobal',
             '',
             '')
 titol <- c('Health in infants born to mothers who received Meloquine or Sulphadoxine-Pyrimethamine in Pregnancy',
-           'Maternal Health in a Changing World',
+           'Maternal Health in a Changing World: from Urbanization to Urban Centric Design',
            '',
            'TBC - Global Health Lecture MalEra',
            'TBC - Heptatis B',
