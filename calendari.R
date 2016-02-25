@@ -67,7 +67,7 @@ titol <- c('Health in infants born to mothers who received Meloquine or Sulphado
            '',
            '',
            '',
-           'CaDMIA i CHAMPS',
+           'Results of the CaDMIA study, and futureperspectives for cause of death research',
            '',
            '',
            '',
