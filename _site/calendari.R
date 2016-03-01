@@ -52,7 +52,7 @@ centre <- c('ISGlobal',
             'ISGlobal',
             'ISGlobal',
             '',
-            '',
+            'ISGlobal',
             '')
 titol <- c('Health in infants born to mothers who received Meloquine or Sulphadoxine-Pyrimethamine in Pregnancy',
            'Maternal Health in a Changing World: from Urbanization to Urban Centric Design',
@@ -70,7 +70,7 @@ titol <- c('Health in infants born to mothers who received Meloquine or Sulphado
            'Results of the CaDMIA study, and futureperspectives for cause of death research',
            '',
            '',
-           '',
+           'Cryptococcal meningitis: a silent, neglected, but easily preventable serial killer',
            '')
 lloc <- c('Aula 3, Fac Medicina, 14:00',
           'TBC',
