@@ -68,7 +68,7 @@ titol <- c('Health in infants born to mothers who received Meloquine or Sulphado
            '',
            '',
            'Results of the CaDMIA study, and futureperspectives for cause of death research',
-           '',
+           'Vaccine-specific cellular immune correlates induced by RTS,S/AS01E in children and infants from a phase III trial in Africa',
            '',
            'Cryptococcal meningitis: a silent, neglected, but easily preventable serial killer',
            '')
