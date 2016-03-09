@@ -35,7 +35,7 @@ ponent <- c('María Rupérez',
             'Gemma Moncunill',
             'Nathan Bertelsen - TBC',
             'Emil Letang',
-            '')
+            'Alfred Cortés Closas')
 centre <- c('ISGlobal',
             'Independent consultant',
             'ISGlobal',
@@ -53,7 +53,7 @@ centre <- c('ISGlobal',
             'ISGlobal',
             '',
             'ISGlobal',
-            '')
+            'ISGlobal')
 titol <- c('Health in infants born to mothers who received Meloquine or Sulphadoxine-Pyrimethamine in Pregnancy',
            'Maternal Health in a Changing World: from Urbanization to Urban Centric Design',
            'Tratar la enfermedad de Chagas: razones para impulsar tratamiento, barreras y principales recomendaciones para mejorar el acceso',
@@ -71,7 +71,7 @@ titol <- c('Health in infants born to mothers who received Meloquine or Sulphado
            'Vaccine-specific cellular immune correlates induced by RTS,S/AS01E in children and infants from a phase III trial in Africa',
            '',
            'Cryptococcal meningitis: a silent, neglected, but easily preventable serial killer',
-           '')
+           'Adaptation of malaria parasites to changes in their environment: to bet or not to bet - TBC')
 lloc <- c('Aula 3, Fac Medicina, 14:00',
           'TBC',
           'Aula 3, Fac Medicina, 14:00',
